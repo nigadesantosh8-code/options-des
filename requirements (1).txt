@@ -1,0 +1,7 @@
+flask
+gunicorn
+requests
+pyotp
+smartapi-python
+logzero
+websocket-client
